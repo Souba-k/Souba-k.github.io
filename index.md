@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+Hello
 
-You can use the [editor on GitHub](https://github.com/Souba-k/Souba-k.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I decided to start a quite useless project. I want to write from scratch a Risc-V core and an assembler for this core. The goal is just for me to learn as much as I can about computer architecture and have fun. I will try to go as far as I can, but for now I will limit myself to a single core without pipeline running a fibonnaci.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page is not some kind of documentation but just to keep a log of this journey.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Souba-k/Souba-k.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Chapter 1
+Ok, so the first step is to find a good opensource SV simulator.
